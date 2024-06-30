@@ -31,7 +31,7 @@ nav img {
 }
 
 header {
-    padding: 1rem;
+    padding: 4rem;
     background: linear-gradient(to right,
             rgb(0, 0, 0),
             rgb(0, 0, 0, 0.5));
